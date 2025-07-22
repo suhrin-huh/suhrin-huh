@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **suhrin-huh/suhrin-huh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,6 @@ Here are some ideas to get you started:
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저에게 주어진 도전에 피하지 않고 묵묵히 성장하는 개발자입니다.</li></li>어제보다 하나라도 더 나은 코드를 작성하기 위해 노력합니다. </div> 
     </div>
 -->
-
 <div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Just%20do%20it!&animation=&fontColor=ffffff&fontSize=40" />
 </div>
