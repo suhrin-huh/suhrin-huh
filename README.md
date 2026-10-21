@@ -3,7 +3,7 @@
 
 <!-- Custom Retro README Asset -->
 <img
-  src="https://retro-readme-assets.vercel.app/api/widgets/retro?name=Minchae&theme=mint&email=minchaeh217%40gmail.com;"
+  src="https://retro-readme-assets.vercel.app/api/widgets/retro?name=Minchae&theme=mint&email=minchaeh217%40gmail.com;](http://localhost:3000/api/widgets/retro?title=CONNECT.EXE&headline=Want+to+build+together%3F&cta=Let%27s+connect%21&name=Suhrin+Huh&role=Backend+Developer&about=I+enjoy+building+reliable+backend+services+and+finding+thoughtful+solutions+to+real+problems.+Always+learning%2C+always+building.&theme=mint&email=&blog=&linkedin=&language=Java%2C+JavaScript%2C+Python&stack=Spring+Boot%2C+React%2C+Next.js&animation=typing"
   alt="My retro introduction"
   width="100%"
 />
