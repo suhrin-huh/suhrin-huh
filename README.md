@@ -3,7 +3,7 @@
 
 <!-- Custom Retro README Asset -->
 <img
-  src="https://retro-readme-assets.vercel.app/api/widgets/retro?title=CONNECT.EXE&headline=Want+to+build+together%3F&cta=Let%27s+connect%21&name=Suhrin+Huh&role=Backend+Developer&about=I+enjoy+building+reliable+backend+services+and+finding+thoughtful+solutions+to+real+problems.+Always+learning%2C+always+building.&theme=mint&email=&blog=&linkedin=&language=Java%2C+JavaScript%2C+Python&stack=Spring+Boot%2C+React%2C+Next.js&animation=typing"
+  src="https://retro-readme-assets.vercel.app/api/widgets/retro?title=CONNECT.EXE&headline=Want+to+build+together%3F&cta=Let%27s+connect%21&name=Minchae+Hwang&role=Backend+Developer&about=I+enjoy+building+reliable+backend+services+and+finding+thoughtful+solutions+to+real+problems.+Always+learning%2C+always+building.&theme=mint&email=&blog=&linkedin=&language=Java%2C+JavaScript%2C+Python&stack=Spring+Boot%2C+React%2C+Next.js&animation=typing"
   alt="My retro introduction"
   width="100%"
 />
@@ -12,6 +12,76 @@
 ---
 <br>
 
+## 🛠 Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+### AI & Data
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+
+### DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+
+### Frontend
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Tools & Collaboration
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+
+<br>
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|:---|:---|:---|
+| **Retro README Assets** | 사용자 설정 기반 동적 SVG 프로필 에셋 생성 서비스 | Next.js, TypeScript, SVG |
+| **AI Fashion Strategy Agent** | 패션 트렌드 데이터를 병렬 수집하고 분석하는 AI Agent 서비스 | Python, LangChain |
+| **Figma Automation Plugin** | 디자인 리소스 추출 자동화로 반복 작업 시간 90% 이상 단축 | JavaScript, Figma |
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhrin-huh&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top Languages" />
+
+<br>
+
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=suhrin2" height="150" alt="Solved.ac Profile" />
+
+
+<div>
+<!--
+ 
+ 
+ 
 ## 🛠 Tech Stack
 
 ### Backend
@@ -115,29 +185,14 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
 
-<br>
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|:---|:---|:---|
-| **Retro README Assets** | 사용자 설정 기반 동적 SVG 프로필 에셋 생성 서비스 | Next.js, TypeScript, SVG |
-| **AI Fashion Strategy Agent** | 패션 트렌드 데이터를 병렬 수집하고 분석하는 AI Agent 서비스 | Python, LangChain |
-| **Kubernetes Learning Platform** | Kubernetes 리소스 시각화 및 CLI 명령어 학습 지원 서비스 | Vue.js, Kubernetes |
-| **Figma Automation Plugin** | 디자인 리소스 추출 자동화로 반복 작업 시간 90% 이상 단축 | JavaScript, Figma |
-| **Port Delay Prediction AIOps** | 부산항 선박 지연시간 예측 및 모델 운영 자동화 설계 | Python, MLflow |
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhrin-huh&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top Languages" />
-
-<br>
-
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=suhrin2" height="150" alt="Solved.ac Profile" />
+ 
+ 
+ 
+ 
+ 
+ -->
+ 
+</div>
 
 </div>
 
