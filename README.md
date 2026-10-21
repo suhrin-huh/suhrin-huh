@@ -3,7 +3,7 @@
 
 <!-- Custom Retro README Asset -->
 <img
-  src="https://retro-readme-assets.vercel.app/api/widgets/retro?name=Minchae&amp;theme=mint&amp;animation=none"
+  src="https://retro-readme-assets.vercel.app/api/widgets/retro?name=Minchae&theme=mint&email=minchaeh217%40gmail.com;"
   alt="My retro introduction"
   width="100%"
 />
